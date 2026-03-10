@@ -1,0 +1,11 @@
+-------------POST-------------
+http://127.0.0.1:5000/Notebook
+------------------------------
+
+Body - raw - JSON
+
+{
+  "modelo": "Propilon Tecnologia Jair Bolsotron 2²+2538 (lá ele 5 vezes)",
+  "marca": "Positivo"
+}
+
